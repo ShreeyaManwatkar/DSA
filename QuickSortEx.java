@@ -1,8 +1,6 @@
 package DSAJava;
 
-package com.yuvraj;
-
-public class QuickSortExample {
+public class QuickSortEx {
     public static void main(String[] args) {
         int[] arr = {45, 22, 89, 15, 77, 33, 10};
 
@@ -55,4 +53,5 @@ public class QuickSortExample {
         }
         System.out.println(); 
     }
+
 }
