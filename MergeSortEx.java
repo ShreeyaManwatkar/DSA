@@ -1,8 +1,6 @@
 package DSAJava;
 
-package com.yuvraj;
-
-public class MergeSortExample {
+public class MergeSortEx {
 
     static void merge(int[] arr, int left, int mid, int right) {
         int n1 = mid - left + 1;
@@ -72,4 +70,5 @@ public class MergeSortExample {
             System.out.print(num + " ");
         }
     }
+
 }
